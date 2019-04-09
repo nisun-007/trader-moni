@@ -39,13 +39,13 @@ const components = [
   D3AreaStackComponent,
   D3PolarComponent,
   D3AdvancedPieComponent,
-  // EchartsLineComponent,
+  EchartsLineComponent,
   // EchartsPieComponent,
-  // EchartsBarComponent,
-  // EchartsMultipleXaxisComponent,
-  // EchartsAreaStackComponent,
-  // EchartsBarAnimationComponent,
-  // EchartsRadarComponent,
+  EchartsBarComponent,
+  EchartsMultipleXaxisComponent,
+  EchartsAreaStackComponent,
+  EchartsBarAnimationComponent,
+  EchartsRadarComponent,
 ];
 
 @NgModule({

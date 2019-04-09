@@ -55,6 +55,7 @@ import { SmartTableComponent } from '../tables/smart-table/smart-table.component
 import { TablesModule } from '../tables/tables.module';
 import { TablesRoutingModule } from '../tables/tables-routing.module';
 import { Ng2SmartTableModule } from 'ng2-smart-table';
+import { InteractiveProgressBarComponent } from '../extra-components/progress-bar/interactive-progress-bar/interactive-progress-bar.component';
 
 @NgModule({
   imports: [
@@ -101,6 +102,7 @@ import { Ng2SmartTableModule } from 'ng2-smart-table';
     EarningLiveUpdateChartComponent,
     ListComponent,
     ProgressBarComponent,
+    InteractiveProgressBarComponent,
     EchartsPieComponent,
     EchartsComponent,
     SmartTableComponent,
