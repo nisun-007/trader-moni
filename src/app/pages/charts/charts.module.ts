@@ -40,7 +40,7 @@ const components = [
   D3PolarComponent,
   D3AdvancedPieComponent,
   EchartsLineComponent,
-  EchartsPieComponent,
+  // EchartsPieComponent,
   EchartsBarComponent,
   EchartsMultipleXaxisComponent,
   EchartsAreaStackComponent,
