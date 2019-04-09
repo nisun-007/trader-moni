@@ -20,6 +20,6 @@ const routes: Routes = [{
 export class TablesRoutingModule { }
 
 export const routedComponents = [
-  TablesComponent,
-  SmartTableComponent,
+  // TablesComponent,
+  // SmartTableComponent,
 ];
