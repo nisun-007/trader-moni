@@ -56,7 +56,6 @@ import { TablesModule } from '../tables/tables.module';
 import { TablesRoutingModule } from '../tables/tables-routing.module';
 import { Ng2SmartTableModule } from 'ng2-smart-table';
 
-
 @NgModule({
   imports: [
     ThemeModule,
