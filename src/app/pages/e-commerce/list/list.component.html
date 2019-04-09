@@ -1,0 +1,19 @@
+<div class="lists">
+  <div class="">
+    <nb-card class="list-card">
+      <nb-card-header>States</nb-card-header>
+      <nb-card-body>
+        <nb-list>
+          <nb-list-item *ngFor="let fruit of fruits; let i = index">
+           {{i+1}}. {{ fruit.Name }}
+
+        <nb-progress-bar [value]="fruit.Percentage" status="primary" [displayValue]="true"></nb-progress-bar>
+
+          </nb-list-item>
+        </nb-list>
+      </nb-card-body>
+    </nb-card>
+  </div>
+
+
+</div>
