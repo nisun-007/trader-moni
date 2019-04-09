@@ -29,7 +29,7 @@ export class ChartsRoutingModule { }
 
 export const routedComponents = [
   ChartsComponent,
-  EchartsComponent,
+  // EchartsComponent,
   D3Component,
   ChartjsComponent,
 ];
